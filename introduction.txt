@@ -1,0 +1,3 @@
+👋 I'm Phillipa Aidoo
+🚀 Passionate about web development, software engineering, and crafting innovative solutions.
+👩‍🎓 I'm currently learning the latest front-end technologies like React and improving my skills in backend development with Node.js @Alx
